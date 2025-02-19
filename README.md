@@ -1,13 +1,4 @@
-# Sample Hardhat Project
+# Scripting for add Liquidity
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.ts
-```
+<img width="960" alt="addLiquidity" src="https://github.com/user-attachments/assets/0663eaf8-0fa8-4439-acd7-e871058380e3" />
